@@ -1,0 +1,83 @@
+NO,Nama,Prodi,Jabatan,Divisi,Status Keaktifan
+1,Slamet Rifa'i,AGB,Ketua Umum,Pengurus Harian,Aktif
+2,Muhammad Rijal Octaviyan Sya'bani,MBP,Wakil Ketua Umum,Pengurus Harian,Aktif
+3,Tri Eva Yunia,TRPL,Sekretaris 1,Pengurus Harian,Aktif
+4,Aline Zahra,MBP,Sekretaris 2,Pengurus Harian,Aktif
+5,Ameliatus Safna,MBP,Bendahara 1,Pengurus Harian,Aktif
+6,Alyna Zahwa,MBP,Bendahara 2,Pengurus Harian,Aktif
+7,Ika Sabina Hoirunnisa,MBP,Koordinator 1 Divisi Syiar,Syiar,Aktif
+8,Wildan Prayoga,TRM,Koordinator 2 Divisi Styiar,Syiar,Tidak Aktif
+9,Moch Risqi Yassar,TRPL,Anggota Divisi Syiar,Syiar,Kurang Aktif
+10,Adam Ra'uuf Abaabil Madiyan,AGB,Anggota Divisi Syiar,Syiar,Aktif
+11,Moch Fahmi Idris,TRM,Anggota Divisi Syiar,Syiar,Tidak Aktif
+12,Saiful Rizal,TRM,Anggota Divisi Syiar,Syiar,Tidak Aktif
+13,Sinta Fauzia,MBP,Anggota Divisi Syiar,Syiar,Kurang Aktif
+14,Tanti Rusditasari,AGB,Anggota Divisi Syiar,Syiar,Aktif
+15,Aulia Nabila,MBP,Anggota Divisi Syiar,Syiar,Kurang Aktif
+16,Wildan Risky Akbar,AGB,Anggota Divisi Syiar,Syiar,Aktif
+17,Febrian Guntur Pratama,TRM,Anggota Divisi Syiar,Syiar,Tidak Aktif
+18,Jayak Saputra,TRM,Anggota Divisi Syiar,Syiar,Kurang Aktif
+19,Ahmad Faiz Rijal Azizi,TRM,Anggota Divisi Syiar,Syiar,Tidak Aktif
+20,Muhammad Angga Burhanuddin,TRM,Koordinator 1 divisi Seni Budaya,Seni Budaya,Tidak Aktif
+21,Rahma Dina Aulia,MBP,Koordinator 2 Divisi Seni Budaya,Seni Budaya,Tidak Aktif
+22,Akbar Risky Maulana,AGB,Anggota Divisi Seni Budaya,Seni Budaya,Kurang Aktif
+23,Nur Hidayah,Sipil,Anggota Divisi Seni Budaya,Seni Budaya,Aktif
+24,Shofia Maulidatus Sholekhah,TRPL,Anggota Divisi Seni Budaya,Seni Budaya,Kurang Aktif
+25,AA Deny Murtadho,TRM,Anggota Divisi Seni Budaya,Seni Budaya,Kurang Aktif
+26,Muhammad Aftoni,TRM,Anggota Divisi Seni Budaya,Seni Budaya,Kurang Aktif
+27,Dita Natasya Rohima,AGB,Anggota Divisi Seni Budaya,Seni Budaya,Kurang Aktif
+28,Isni Ratna Juwita,MBP,Anggota Divisi Seni Budaya,Seni Budaya,Aktif
+29,Reza Vatoni,TRM,Anggota Divisi Seni Budaya,Seni Budaya,Tidak Aktif
+30,Puji Pangestu,TRM,Anggota Divisi Seni Budaya,Seni Budaya,Kurang Aktif
+31,Umi Fardah Anisa,MBP,Anggota Divisi Seni Budaya,Seni Budaya,Aktif
+32,Wafi Sabitul Azmi Kolis,AGB,Anggota Divisi Seni Budaya,Seni Budaya,Tidak Aktif
+33,Achmad Alfan Fauzi,TRM,Koordinator 1 Divisi PSDM,PSDM,Aktif
+34,Moch Hisom Azka,AGB,Koordinator 2 Divisi PSDM,PSDM,Kurang Aktif
+35,Langgam Achmad Satriani,TRM,Anggota Divisi PSDM,PSDM,Tidak Aktif
+36,Irma Ayu Fuji Lestari,TRPL,Anggota Divisi PSDM,PSDM,Aktif
+37,Sigit Satriana Suganda,TPHT,Anggota Divisi PSDM,PSDM,Tidak Aktif
+38,Feri Mardianto,TMK,Anggota Divisi PSDM,PSDM,Aktif
+39,Miryatul Jannah,AGB,Anggota Divisi PSDM,PSDM,Aktif
+40,Dika Damayosa,AGB,Anggota Divisi PSDM,PSDM,Tidak Aktif
+41,Kevin Octavian Pratama,TRM,Anggota Divisi PSDM,PSDM,Aktif
+42,Ida Suryana,MBP,Anggota Divisi PSDM,PSDM,Kurang Aktif
+43,Muhammad Imam Nur Arifin,AGB,Anggota Divisi PSDM,PSDM,Kurang Aktif
+44,Dina Surya Susanti,MBP,Anggota Divisi PSDM,PSDM,Tidak Aktif
+45,Imelda Rosiyanita,TRPL,Anggota Divisi PSDM,PSDM,Keluar
+46,Khoirunnisa,Sipil,Koordinator 1 Divisi Kemuslimahan,Kemuslimahan,Aktif
+47,Khanza Salsabila,Sipil,Koordinator 2 Divisi Kemuslimahan,Kemuslimahan,Aktif
+48,Ayu Litsiyo Wati,TRPL,Anggota Divisi Kemuslimahan,Kemuslimahan,Kurang Aktif
+49,Herdiana Eka,MBP,Anggota Divisi Kemuslimahan,Kemuslimahan,Tidak Aktif
+50,Diva Imroatus Syafitri,BSD,Anggota Divisi Kemuslimahan,Kemuslimahan,Kurang Aktif
+51,Khairin Nafisi,BSD,Anggota Divisi Kemuslimahan,Kemuslimahan,Kurang Aktif
+52,Nurfadilatul Husna,TPHT,Anggota Divisi Kemuslimahan,Kemuslimahan,Kurang Aktif
+53,Khilma Saidah,MBP,Anggota Divisi Kemuslimahan,Kemuslimahan,Aktif
+54,Ayu Lestari,AGB,Anggota Divisi Kemuslimahan,Kemuslimahan,Tidak Aktif
+55,Anisa Firdausiyah,AGB,Anggota Divisi Kemuslimahan,Kemuslimahan,Aktif
+56,Nailun Sofiyah,MBP,Anggota Divisi Kemuslimahan,Kemuslimahan,Aktif
+57,Deisa Anggela Adisti,TPHT,Anggota Divisi Kemuslimahan,Kemuslimahan,Kurang Aktif
+58,Niken Wulandari,MBP,Anggota Divisi Kemuslimahan,Kemuslimahan,Kurang Aktif
+59,Dwi Nur Syafa,TRPL,Koordinator 1 Divisi Publikasi,Publikasi,Aktif
+60,Abdillah Ainul Haq,TRPL,Koordinator 2 Divisi Publikasi,Publikasi,Tidak Aktif
+61,Mohammad Fajar Rosyidi,TRPL,Anggota Divisi Publikasi,Publikasi,Kurang Aktif
+62,Moh. Aldi Rohmatulloh,TRPL,Anggota Divisi Publikasi,Publikasi,Kurang Aktif
+63,Lisa Ayu Anjani,TRPL,Anggota Divisi Publikasi,Publikasi,Tidak Aktif
+64,Ahmad Diky Dharmawan,TRPL,Anggota Divisi Publikasi,Publikasi,Aktif
+65,Yoga Aditya Crisna Setya Putra,TRPL,Anggota Divisi Publikasi,Publikasi,Keluar
+66,Gitalis Dwi Rofiqoh,AGB,Anggota Divisi Publikasi,Publikasi,Tidak Aktif
+67,Marisa Humairah,AGB,Anggota Divisi Publikasi,Publikasi,Kurang Aktif
+68,Ana Mardiana,MBP,Anggota Divisi Publikasi,Publikasi,Kurang Aktif
+69,Fristiar Dana Insani,TPHT,Anggota Divisi Publikasi,Publikasi,Kurang Aktif
+70,Ulin Nurrahman,TRPL,Anggota Divisi Publikasi,Publikasi,Tidak Aktif
+71,Mas Ahmad Zaidi Wardana,TRPL,Koordinator 1 Divisi Pengmas,Pengmas,Aktif
+72,Dwi Wulan Anggraini,MBP,Koordinator 2 Divisi Pengmas,Pengmas,Aktif
+73,Iqbal,TRPL,Anggota Divisi Pengmas,Pengmas,Kurang Aktif
+74,Ihwan Kholidi,TRPL,Anggota Divisi Pengmas,Pengmas,Aktif
+75,Achmad Rifqi Nailal Faizin,TRPL,Anggota Divisi Pengmas,Pengmas,Tidak Aktif
+76,Lufan Fernanda,TRK,Anggota Divisi Pengmas,Pengmas,Kurang Aktif
+77,M. Abdul Muiz,AGB,Anggota Divisi Pengmas,Pengmas,Tidak Aktif
+78,Citra Aninda Putri Frianggani,MBP,Anggota Divisi Pengmas,Pengmas,Aktif
+79,Syafrina Durotun Aini,TRPL,Anggota Divisi Pengmas,Pengmas,Tidak Aktif
+80,Ahmad Nurman Ramadhoni,AGB,Anggota Divisi Pengmas,Pengmas,Kurang Aktif
+81,Hasnal Wahid Danarta,MBP,Anggota Divisi Pengmas,Pengmas,Tidak Aktif
+82,Hasan Fahmi Hayat,MBP,Anggota Divisi Pengmas,Pengmas,Kurang Aktif
